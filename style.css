@@ -1,0 +1,13 @@
+.bg-color{
+    background-color: #fceae8;
+}
+.button-buy-now{
+    background-image: linear-gradient( to bottom,#FF589B 0%, #FF136F);
+    color: white;
+    border: none;
+    border-radius: 9px;
+    padding: 10px 25px;
+}
+.container{
+    margin-bottom: 100px;
+}
